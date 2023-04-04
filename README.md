@@ -10,5 +10,3 @@ In this project, i will explore the dataset `Quora Question pairs` which is a co
 
 
 [^2]:Tool for computing continuous distributed representations of words. 
-
-## Data Description 
