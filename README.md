@@ -9,4 +9,4 @@ In this project, i will explore the dataset `Quora Question pairs` which is a co
 [^1]: **Kaggle**, a subsidiary of [Google LLC](https://en.wikipedia.org/wiki/Google_LLC "Google LLC"), is an online community of [data scientists](https://en.wikipedia.org/wiki/Data_science "Data science") and [machine learning](https://en.wikipedia.org/wiki/Machine_learning "Machine learning") practitioners.  
 
 
-[^2]:Tool for computing continuous distributed representations of words. 
+[^2]: Hugging Face, Inc. is an American company that develops tools for building applications using machine learning.
